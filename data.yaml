@@ -1,0 +1,16 @@
+names:
+- bottom_shipper
+- top_shipper
+- bottom_shipper_flipped
+- top_shipper_flipped
+- folding_passed
+- folding_failed
+Dir: '/home/ucaokylong/YOLO-NAS/data'
+images:
+  test: test/images
+  train: train/images
+  val: valid/images
+labels:
+  test: test/labels
+  train: train/labels
+  val: valid/labels
